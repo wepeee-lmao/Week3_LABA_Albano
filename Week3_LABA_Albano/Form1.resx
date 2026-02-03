@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Researchers at McMaster University are conducting the School Mental Health Surveys, which are part of the
+2014 Ontario Child Health Study. These surveys ask about school climate and programs and practices in your
+school that support student mental health. Teachers can offer unique perspectives on how to support student
+mental health. Therefore, we ask that you report honestly about how you feel and what you do when working
+at this school.
+
+Teacher identities will be kept strictly confidential. No one at your school or board will know what you
+answered. Your survey will go directly to researchers at McMaster University and will be combined with those
+of other teachers and used for research purposes only.
+
+Information from the School Mental Health Surveys will be used to help improve our schools so that children
+and youth in Ontario reach their full potential.
+
+Thank you for participating!</value>
+  </data>
+  <data name="textBox3.Text" xml:space="preserve">
+    <value>1. Students are taught to feel responsible for
+how they act.
+
+2. Teachers, staff, and administrators work well
+together in this school.
+
+3. This school is well regarded by the
+community.
+
+4. Students are taught to understand how
+others think and feel.
+
+5. Teachers work closely with parents to help
+students when they have problems.
+
+6. This school has effective partnerships with
+community organizations.
+
+7. Teachers expect all students to work hard.
+8. Teachers show respect toward parents.
+
+9. Students are taught that they can control
+their own behaviour.
+
+10. Teachers require students to work hard to
+get good grades.
+
+11. Students are taught how to solve conflicts
+with others.
+
+12. Administrators and teachers support one
+another.
+
+13. Students are taught they should care about
+how others feel.
+
+14. Teachers do a good job communicating
+with parents.
+
+15. Teachers expect students to do their best
+all the time.
+
+16. Teachers listen to the concerns of parents.
+
+17. There is good communication among teachers, staff, and administrators.
+
+18. Having strong community relations is a
+priority in this school.</value>
+  </data>
+  <data name="textBox8.Text" xml:space="preserve">
+    <value>Since the beginning of this school year, how many weeks have you been teaching the class completing the
+student survey?
+
+
+Is this class a:
+
+
+What grade level is this class? If this is a split grade class, please specify both grades.
+
+
+
+
+How many students are enrolled in this class?
+</value>
+  </data>
+  <data name="textBox6.Text" xml:space="preserve">
+    <value>1. Expected student behaviours and routines are
+taught directly.
+
+2. Expected student behaviours are acknowledged
+regularly (positively reinforced).
+
+3. Problem behaviours (failure to meet expected
+student behaviours) are defined clearly.
+
+4. Consequences for problem behaviours are
+defined clearly.
+
+5. Problem behaviours receive consistent
+consequences.
+
+6. A variety of methods are used to reward
+students.
+
+7. Rewards are linked to expectations and rules.
+
+8. Rewards are varied to maintain student interest.</value>
+  </data>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>Since the beginning of this school year, how many weeks have you been teaching the class completing the
+student survey?
+
+
+Is this class a:
+
+
+What grade level is this class? If this is a split grade class, please specify both grades.
+
+
+
+
+How many students are enrolled in this class?
+</value>
+  </data>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>
